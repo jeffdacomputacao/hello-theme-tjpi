@@ -1,11 +1,12 @@
 /*
 Theme Name: Hello Child
-Theme URI: https://exemplo.com/hello-child
-Description: Tema filho do Hello Theme.
+Theme URI: https://gitlab.tjpi.jus.br/jefferson/hello-theme-tjpi
+Description: Tema filho do Hello Elementor.
 Author: Seu Nome
-Author URI: https://exemplo.com
+Author URI: https://seusite.com
 Template: hello-elementor
-Version: 1.0
+Version: 1.0.0
 */
+
 
 @import url("../hello-elementor/style.css");
