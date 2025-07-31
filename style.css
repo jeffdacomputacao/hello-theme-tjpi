@@ -1,12 +1,14 @@
 /*
-Theme Name: Hello Child
+Theme Name: Hello Theme TJPI
 Theme URI: https://gitlab.tjpi.jus.br/jefferson/hello-theme-tjpi
-Description: Tema filho do Hello Elementor.
-Author: Seu Nome
-Author URI: https://seusite.com
+Author: Jefferson Gonçalves
+Author URI: https://tjpi.jus.br
+Description: Tema filho baseado no Hello Elementor para uso no TJPI.
+Version: 1.0.1
 Template: hello-elementor
-Version: 1.0.0
+GitLab Theme URI: https://gitlab.tjpi.jus.br/jefferson/hello-theme-tjpi
 */
+
 
 
 @import url("../hello-elementor/style.css");
