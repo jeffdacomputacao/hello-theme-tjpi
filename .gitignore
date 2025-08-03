@@ -1,0 +1,5 @@
+*.log
+*.zip
+node_modules/
+vendor/
+.DS_Store
