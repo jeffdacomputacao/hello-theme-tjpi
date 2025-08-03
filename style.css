@@ -1,0 +1,19 @@
+/*
+Theme Name: Hello2 Theme TJPI
+Theme URI: https://github.com/jeffdacomputacao/hello-theme-tjpi
+Author: Jefferson Gonçalves
+Author URI: https://github.com/
+Description: Tema filho baseado no Hello Elementor para uso no TJPI.
+<<<<<<< HEAD
+Version: 1.0.2
+=======
+Version: 1.0.3
+>>>>>>> e3ad468 (Versão inicial do tema Hello Theme TJPI)
+Template: hello-elementor
+GitHub Theme URI: https://github.com/jeffdacomputacao/hello-theme-tjpi
+
+*/
+
+
+
+@import url("../hello-elementor/style.css");
